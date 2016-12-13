@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6e54a365bda1cee9761b51bc792a74ba80054270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ac0ee028db72e80c772e68bd2b841825e70d4d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c496c2a63c4e5320c680b6fac7c7de67067ad91a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_98cb6d387488ee711ce0ab9209275d15d8af1f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_759ed0eed233ac5dcb1a7007bf53715780728ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_aa8de4e5cd23c84712e2200d4c8974370c5fa838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a0587c46b9c1a80c2a8ae3ef4cb1a25bc5fa7fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_0a7e33c47e5feedca627e5ba7ca866276c8b1f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_9c68942ee5a5fb72248119a3a821ebe57d0fc16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_85d0400de8c5a1e1df15b9bbde10ecc9b4c2d076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_5e72fdb17749aaf660e57867d1e6de5e684e0421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_206fa58f044f2d4f8ecfec63036486468c4ce727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea77821a318ae8461b47e2fa004e962ebe6287fe">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_a80d4ae2d405b34c4a4ca2d06154f14b179acc04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_80a8280e4a9a375576c9a25676007d3539aa8df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c73e9df17f94212082e9eeffbffde9e349470445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_d997861b2c48a62feb43e95d0714a9416322de85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.estimote/sdk/0.11.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ff85bb08facfbaa19d529be27738fd354baaab7">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.estimote-sdk-0.11.1_273fa9069644263078b14961e43397da6ea70779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_dc331dad55e8e1fc8e4e3966803e7253200796cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca5c87a2bdb860ebec19260c9e3b2757911e94cc">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/instant-run_b8d29cd943501e549e0e7990c42e2fb67bd57ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sagar/AndroidStudioProjects/RetB/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bc5a664c1d2c605ca3ad05a7f0c7354ceb7756d6.jar" />
+    </item>
+
+</items>
